@@ -1,0 +1,10 @@
+name: "dht_driver"
+version: "1.0.0"
+description: DHT sensors driver
+url: https://github.com/sn0kerbuzz/esp-idf-components/dht
+repository: https://github.com/sn0kerbuzz/esp-idf-components.git
+documentation: https://github.com/sn0kerbuzz/esp-idf-components
+issues: https://github.com/sn0kerbuzz/esp-idf-components/issues
+dependencies:
+  idf: ">=4.0"
+  cmake_utilities: "0.*"
